@@ -8,11 +8,13 @@
     padding: 10px;
     background-color: white;
     font-weight: bold;
+	border: 1px solid black;
 }
 .author2{
     padding: 10px;
     background-color: white;
     font-weight: bold;
+	border: 1px solid black;
 }
 
 .author{
